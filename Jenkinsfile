@@ -4,4 +4,4 @@ def configMap = [
     project: "roboshop",
     component: "catalogue"
 ]
-def call(Map configMap) { ... }
+testPipeline(configMap)
