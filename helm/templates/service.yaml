@@ -10,7 +10,7 @@ metadata:
     tier: backend
     component: catalogue
 spec:
-  # Service uses the below labels to select the pods
+  # Service uses the below labels to select the pods -Ram test
   selector:
     project: roboshop
     tier: backend
